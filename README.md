@@ -1,6 +1,6 @@
 # Hey, I'm Nazmul 👋
 
-BSc (Cyber Security) student at Goldsmiths, University of London. Passionate about cybersecurity, digital safety, and building things that actually help people.
+BSc Computer Science (Cyber Security) student at Goldsmiths, University of London. Passionate about cybersecurity, digital safety, and building things that actually help people.
 
 ## About me
 - 🎓 BSc Computer Science (Cyber Security) — Goldsmiths, UoL

@@ -10,11 +10,10 @@ BSc Computer Science (Cyber Security) student at Goldsmiths, University of Londo
 - 📍 London, UK
 
 ## What I work with
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,git&perline=7" />
+</p>
 
 ## Experience
 - 🏫 **Campus Ambassador** — Goldsmiths, University of London
@@ -26,4 +25,7 @@ BSc Computer Science (Cyber Security) student at Goldsmiths, University of Londo
 Currently working towards a first-class degree, then a Master's in cybersecurity. Looking to break into the industry at a company where the problems are hard and the team is sharp.
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/realnazmul)
+
+<p align="left">
+  <a href="https://linkedin.com/in/realnazmul"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>

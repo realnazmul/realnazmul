@@ -22,7 +22,7 @@ BSc Computer Science (Cyber Security) student at Goldsmiths, University of Londo
 - 👨‍🏫 **Peer Mentor** — supported first-year IT students through coursework & exams
 
 ## Goals
-Currently working towards a first-class degree, then a Master's in cybersecurity. Looking to break into the industry at a company where the problems are hard and the team is sharp.
+Currently working towards a first-class degree cybersecurity. Looking to break into the industry at a company where the problems are hard and the team is sharp.
 
 ## Connect
 
